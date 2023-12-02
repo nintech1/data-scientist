@@ -19,7 +19,7 @@ BSc., Chemical/Petro-Chemical Enginerring| Rivers State University of Science an
 **Production Data Analyst Support @ Guinness Nigeria Plc Lagos, Nigeria (_Mar 2019 – Aug 2021_)**
 - Achieved 70% OEE (Overall Equipment Effectiveness) by revamping workflows and processes
 - Improved Plant performance through robust Root Cause Failure Analysis investigation to resolve machine downtime
-- **Production Data Analyst @ Prima Corporation Limited Lagos, Nigeria (_June 2016 – May 2019_)**
+**Production Data Analyst @ Prima Corporation Limited Lagos, Nigeria (_June 2016 – May 2019_)**
 - Created quality production management system based on production specification that reduced production waste by 21%
 - Implemented a process parameter tracking system for predicting machine failure that resulted in a 25% reduction in production cost
 **Customer Data Analyst @ Mobax Telecom Nigeria Limited, Lagos (_June 2016 – May 2019_)**
