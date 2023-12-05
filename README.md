@@ -34,10 +34,10 @@ BSc., Chemical/Petro-Chemical Enginerring| Rivers State University of Science an
 - Installed and supervised a truck tracking system that reduced logistic cost by 36% and increase the company’s revenue by 3.4%
 
 ## Projects
-As a focus of my master’s dissertation, I worked on organizational decision making where a company’s KPIs were visualized using visualization 
+- As a focus of my master’s dissertation, I worked on organizational decision making where a company’s KPIs were visualized using visualization 
 tool in R resulting in financial decisions taken based on hypothesis testing of correlation and regression models.    
 
-eveloped a predictive model for acute liver failure in Asian-Pacific Americans using artificial intelligence. I utilized web scraping and 
+- Developed a predictive model for acute liver failure in Asian-Pacific Americans using artificial intelligence. I utilized web scraping and 
 supervised Machine Learning models (linear regression and decision trees) in python to predict a group’s risk of acute liver failure
 
 ## ACCOMPLISHMENTS AND TRAINING
